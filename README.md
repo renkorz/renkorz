@@ -1,16 +1,42 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center">
 
-<!--
-**renkorz/renkorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <b>Renkorz dEV</b>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+test2
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</div>
+
+<div align="center">
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vs%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="https://support.microsoft.com/es-es/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</div>
+<br>
+
+```python
+class Noki():
+
+    def __init__(self):
+        self.name = "Inaki Zárate"
+        self.username = "renkorz"
+        self.age = "22"
+        self.location = "Tco, CL"
+
+    def __str__(self):
+        return self.name
+
+if __name__ == '__main__':
+    me = renkorz()
+    print(me)
+```
+
+---
