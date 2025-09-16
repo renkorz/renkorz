@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-Estudiante de segundo año. Ingeniero informatico. 💻
+Estudiante de segundo año en Ingeniería informática. 💻
 </p>
 <br>
 
