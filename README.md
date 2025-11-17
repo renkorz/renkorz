@@ -28,7 +28,7 @@ class Noki():
     def __init__(self):
         self.name = "Inaki Zárate"
         self.username = "renkorz"
-        self.age = "22"
+        self.age = "23"
         self.location = "Tco, CL"
 
     def __str__(self):
